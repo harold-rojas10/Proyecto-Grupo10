@@ -12,7 +12,7 @@ body{
 
 .registro-paciente-form {
     width: 500px;
-    background: #18b4db;
+    background-color: #60edf7be;
     padding: 30px;
     margin: auto;
     margin-top: 50px;
@@ -24,7 +24,7 @@ body{
 
 .registro-doctores-form {
     width: 500px;
-    background: #0a4ee0;
+    background-color: #60edf7be;
     padding: 30px;
     margin: auto;
     margin-top: 50px;
@@ -34,7 +34,7 @@ body{
     box-shadow: 7px 13px 37px #000;
 }
 header {
-    background-color: #18cbd8;
+    background-color: #60edf7be;
     color: #fff;
     margin-bottom: 15px ;
     padding: 20px;
