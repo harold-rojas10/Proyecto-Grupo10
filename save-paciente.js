@@ -13,7 +13,7 @@ formularioPaci.addEventListener('submit', (event) => {
   guardarCookies(datoPaci)
   const confirmacion = confirm("¿Desea ver los datos?")
   if (confirmacion == true) {
-    window.location.href = "tabla-doctores.html"
+    window.location.href = "tabla-pacientes.html"
   } else {
     formularioPaci.reset()
   }
