@@ -6,6 +6,7 @@ const jsonDatos = JSON.parse(obtenerCookie("doctores"))
 
 for (let i = 0; i < jsonDatos.length; i++) {
   let registro = jsonDatos[i]
+  console.log(registro)
   agregarFila(registro)
 }
 
